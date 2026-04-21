@@ -1,0 +1,45 @@
+{
+  "colors": {
+    "primary": "#2A4E6E",
+    "secondary": "#A3C4BC",
+    "accent": "#E8B44A",
+    "neutralLight": "#F5F5F5",
+    "neutralDark": "#1A1A1A",
+    "success": "#4CAF50",
+    "warning": "#FFC107",
+    "danger": "#D9534F"
+  },
+  "typography": {
+    "headingFont": "Inter",
+    "bodyFont": "Inter",
+    "monoFont": "JetBrains Mono",
+    "scale": {
+      "h1": 32,
+      "h2": 24,
+      "h3": 20,
+      "h4": 18,
+      "body": 16,
+      "small": 14
+    }
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 16,
+    "lg": 24,
+    "xl": 32,
+    "xxl": 48
+  },
+  "radii": {
+    "soft": 4,
+    "rounded": 8
+  },
+  "shadows": {
+    "card": "0px 2px 6px rgba(0,0,0,0.08)"
+  },
+  "grid": {
+    "columns": 12,
+    "gutter": 16,
+    "margin": 32
+  }
+}
